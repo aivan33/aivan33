@@ -15,7 +15,7 @@ and incentives collaboration between students. Since all of us have our hands fu
 An industry classic - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
 #### 📹 Video I Found Impressive Recently
-[Web Dev Cody](https://www.youtube.com/@WebDevCody) made great videos recently on the back scenes of the development process - [Large Scale Development](https://www.youtube.com/watch?v=Dl-BdxNRUqs) ; [Trunk Based Development](https://www.youtube.com/watch?v=oNmcX6Gozg0)
+[Web Dev Cody](https://www.youtube.com/@WebDevCody) made great videos recently on the development process - [Large Scale Development](https://www.youtube.com/watch?v=Dl-BdxNRUqs) ; [Trunk Based Development](https://www.youtube.com/watch?v=oNmcX6Gozg0)
 
 #### 🧑‍🏫 Courses I'm Struggling With
 MIT's [Introduction to Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
