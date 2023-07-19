@@ -1,4 +1,4 @@
-### Welcome to my digital home
+### Welcome to my digital home 🏰
 
 I'm Ivan Minev, Data Engineer solidyfing the foundation for a life journey in the world of AI and Machine Learning 
 
